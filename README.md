@@ -37,21 +37,21 @@ Define the json format:
   "employees": [
     {
       "id": 1,
-      "first_name": "sidharth",
-      "last_name": "shukla",
-      "email": "sidharth@automationreinvented.com"
+      "first_name": "sopan",
+      "last_name": "sagorkar",
+      "email": "sagorkars@gmail.com"
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "smith",
-      "email": "steve@automationreinvented.com"
+      "first_name": "Shashank",
+      "last_name": "Sagorkar",
+      "email": "s.sagorkar@gmail.com"
     },
     {
       "id": 3,
-      "first_name": "virat",
-      "last_name": "kohli",
-      "email": "virat@automationreinvented.com"
+      "first_name": "Shashwat",
+      "last_name": "Sagorkar",
+      "email": "Ss.sagorkar@gmail.com"
     }
   ]
 }
